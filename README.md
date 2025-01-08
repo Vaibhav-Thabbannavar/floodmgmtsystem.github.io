@@ -36,7 +36,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Data Structures and Algorithms
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/PraveenPalkar18)
+- [GitHub](https://github.com/Vaibhav-Thabbannavar)
 
 
 ## Portfolio Topic
@@ -54,7 +54,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dd>Prof.Vaishali Parab</dd>
 <dt>University</dt>
 <dd>KLE Technological University</dd>
-<dt>Flood Management System/COMPUTER SCIENCE</dt>
+<dt>Flood Management System /COMPUTER SCIENCE</dt>
 </dl>
 
 <br> 
